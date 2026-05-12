@@ -94,5 +94,5 @@ This project represents a learning-focused backend system developed during my ac
 
 
 
-Developed as a final-year graduation project to demonstrate backend development skills using ASP.NET Core.
+Developed as part of a team-based final year graduation project, simulating real-world software development practices.
 
